@@ -1,0 +1,108 @@
+AC:
+  abbr: AC
+  name: Acre
+
+AL:
+  abbr: AL
+  name: Alagoas
+
+AM:
+  abbr: AM
+  name: Amazonas
+
+AP:
+  abbr: AP
+  name: Amapá
+
+BA:
+  abbr: BA
+  name: Bahia
+
+CE:
+  abbr: CE
+  name: Ceará
+
+DF:
+  abbr: DF
+  name: Distrito Federal
+
+ES:
+  abbr: ES
+  name: Espírito Santo
+
+GO:
+  abbr: GO
+  name: Goiás
+
+MA:
+  abbr: MA
+  name: Maranhão
+
+MG:
+  abbr: MG
+  name: Minas Gerais
+
+MS:
+  abbr: MS
+  name: Mato Grosso do Sul
+
+MT:
+  abbr: MT
+  name: Mato Grosso
+
+PA:
+  abbr: PA
+  name: Pará
+
+PB:
+  abbr: PB
+  name: Paraíba
+
+PE:
+  abbr: PE
+  name: Pernambuco
+
+PI:
+  abbr: PI
+  name: Piauí
+
+PR:
+  abbr: PR
+  name: Paraná
+
+RJ:
+  abbr: RJ
+  name: Rio de Janeiro
+
+RN:
+  abbr: RN
+  name: Rio Grande do Norte
+
+RO:
+  abbr: RO
+  name: Rondônia
+
+RR:
+  abbr: RR
+  name: Roraima
+
+RS:
+  abbr: RS
+  name: Rio Grande do Sul
+
+SC:
+  abbr: SC
+  name: Santa Catarina
+
+SE:
+  abbr: SE
+  name: Sergipe
+
+SP:
+  abbr: SP
+  name: São Paulo
+
+TO:
+  abbr: TO
+  name: Tocantins
+
