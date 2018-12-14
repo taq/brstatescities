@@ -8905,6 +8905,8 @@ SC:
   codigo_ibge: 4202008
 - nome: Balneário Gaivota
   codigo_ibge: 4202073
+- nome: Balneário Rincão
+  codigo_ibge: 4220000
 - nome: Bandeirante
   codigo_ibge: 4202081
 - nome: Barra Bonita
