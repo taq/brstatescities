@@ -6835,7 +6835,9 @@ MG:
   latitude: -19.6239
   longitude: -43.2312
 - nome: Itabirinha de Mantena
-  codigo_ibge: 0
+  codigo_ibge: 3131802
+  latitude: -18.565833
+  longitude: -41.232778
 - nome: Itabirito
   codigo_ibge: 3131901
   latitude: -20.2501
