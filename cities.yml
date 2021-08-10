@@ -14351,10 +14351,10 @@ PR:
   codigo_ibge: 4128609
   latitude: -25.8772
   longitude: -52.9051
-- nome: Vila Alta
-  codigo_ibge: 28625
-  latitude: 0.0
-  longitude: 0.0
+- nome: Alto Paraíso
+  codigo_ibge: 4128625
+  latitude: -23.5211
+  longitude: -53.7264
 - nome: Virmond
   codigo_ibge: 4128658
   latitude: -25.3829
