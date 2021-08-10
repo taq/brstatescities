@@ -10965,7 +10965,9 @@ PB:
   latitude: -6.48529
   longitude: -37.4488
 - nome: São Domingos de Pombal
-  codigo_ibge: 0
+  codigo_ibge: 2513968
+  latitude: -6.83447
+  longitude: -37.8857
 - nome: São Domingos do Cariri
   codigo_ibge: 2513943
   latitude: -7.63273
@@ -11047,7 +11049,9 @@ PB:
   latitude: -7.09359
   longitude: -35.228
 - nome: Seridó
-  codigo_ibge: 0
+  codigo_ibge: 2515401
+  latitude: -6.93273
+  longitude: -36.3855
 - nome: Serra Branca
   codigo_ibge: 2515500
   latitude: -7.48034
