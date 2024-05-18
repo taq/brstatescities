@@ -1,0 +1,81 @@
+AC:
+   nome: Acre
+   ibge: 12
+AL:
+   nome: Alagoas
+   ibge: 27
+AM:
+   nome: Amazonas
+   ibge: 13
+AP:
+   nome: Amapá
+   ibge: 16
+BA:
+   nome: Bahia
+   ibge: 29
+CE:
+   nome: Ceará
+   ibge: 23
+DF:
+   nome: Distrito Federal
+   ibge: 53
+ES:
+   nome: Espírito Santo
+   ibge: 32
+GO:
+   nome: Goiás
+   ibge: 52
+MA:
+   nome: Maranhão
+   ibge: 21
+MG:
+   nome: Minas Gerais
+   ibge: 31
+MS:
+   nome: Mato Grosso do Sul
+   ibge: 50
+MT:
+   nome: Mato Grosso
+   ibge: 51
+PA:
+   nome: Pará
+   ibge: 15
+PB:
+   nome: Paraíba
+   ibge: 25
+PE:
+   nome: Pernambuco
+   ibge: 26
+PI:
+   nome: Piauí
+   ibge: 22
+PR:
+   nome: Paraná
+   ibge: 41
+RJ:
+   nome: Rio de Janeiro
+   ibge: 33
+RN:
+   nome: Rio Grande do Norte
+   ibge: 24
+RO:
+   nome: Rondônia
+   ibge: 11
+RR:
+   nome: Roraima
+   ibge: 14
+RS:
+   nome: Rio Grande do Sul
+   ibge: 43
+SC:
+   nome: Santa Catarina
+   ibge: 42
+SE:
+   nome: Sergipe
+   ibge: 28
+SP:
+   nome: São Paulo
+   ibge: 35
+TO:
+   nome: Tocantins
+   ibge: 17
