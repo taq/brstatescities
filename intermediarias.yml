@@ -1,6 +1,7 @@
 ---
 1101:
   nome: Porto Velho
+  estado: RO
   cidades:
   - 1101104
   - 1100809
@@ -22,6 +23,7 @@
   - 1100114
 1102:
   nome: Ji-Paraná
+  estado: RO
   cidades:
   - 1101807
   - 1101708
@@ -59,6 +61,7 @@
   - 1100031
 1201:
   nome: Rio Branco
+  estado: AC
   cidades:
   - 1200807
   - 1200450
@@ -76,6 +79,7 @@
   - 1200344
 1202:
   nome: Cruzeiro do Sul
+  estado: AC
   cidades:
   - 1200427
   - 1200393
@@ -87,6 +91,7 @@
   - 1200302
 1301:
   nome: Manaus
+  estado: AM
   cidades:
   - 1303569
   - 1303536
@@ -111,6 +116,7 @@
   - 1300086
 1302:
   nome: Tefé
+  estado: AM
   cidades:
   - 1304260
   - 1304203
@@ -135,6 +141,7 @@
   - 1301407
 1303:
   nome: Lábrea
+  estado: AM
   cidades:
   - 1304104
   - 1303502
@@ -147,6 +154,7 @@
   - 1300144
 1304:
   nome: Parintins
+  estado: AM
   cidades:
   - 1303403
   - 1303007
@@ -161,6 +169,7 @@
   - 1301902
 1401:
   nome: Boa Vista
+  estado: RR
   cidades:
   - 1400308
   - 1400175
@@ -173,6 +182,7 @@
   - 1400027
 1402:
   nome: Rorainópolis - Caracaraí
+  estado: RR
   cidades:
   - 1400605
   - 1400506
@@ -182,6 +192,7 @@
   - 1400209
 1501:
   nome: Belém
+  estado: PA
   cidades:
   - 1508209
   - 1508001
@@ -208,6 +219,7 @@
   - 1500107
 1502:
   nome: Castanhal
+  estado: PA
   cidades:
   - 1507961
   - 1507607
@@ -250,6 +262,7 @@
   - 1502301
 1503:
   nome: Marabá
+  estado: PA
   cidades:
   - 1507508
   - 1507458
@@ -276,6 +289,7 @@
   - 1501204
 1504:
   nome: Redenção
+  estado: PA
   cidades:
   - 1506708
   - 1506583
@@ -294,6 +308,7 @@
   - 1500347
 1505:
   nome: Santarém
+  estado: PA
   cidades:
   - 1506807
   - 1506005
@@ -316,6 +331,7 @@
   - 1502855
 1506:
   nome: Altamira
+  estado: PA
   cidades:
   - 1508357
   - 1508159
@@ -328,6 +344,7 @@
   - 1500503
 1507:
   nome: Breves
+  estado: PA
   cidades:
   - 1507706
   - 1505809
@@ -347,6 +364,7 @@
   - 1502004
 1601:
   nome: Macapá
+  estado: AP
   cidades:
   - 1600600
   - 1600402
@@ -356,6 +374,7 @@
   - 1600279
 1602:
   nome: Oiapoque - Porto Grande
+  estado: AP
   cidades:
   - 1600709
   - 1600550
@@ -369,6 +388,7 @@
   - 1600055
 1701:
   nome: Palmas
+  estado: TO
   cidades:
   - 1721000
   - 1720150
@@ -414,6 +434,7 @@
   - 1707207
 1702:
   nome: Araguaína
+  estado: TO
   cidades:
   - 1722107
   - 1722081
@@ -482,6 +503,7 @@
   - 1702208
 1703:
   nome: Gurupi
+  estado: TO
   cidades:
   - 1720978
   - 1720853
@@ -517,6 +539,7 @@
   - 1700400
 2101:
   nome: São Luís
+  estado: MA
   cidades:
   - 2111300
   - 2111201
@@ -593,6 +616,7 @@
   - 2100832
 2102:
   nome: Santa Inês - Bacabal
+  estado: MA
   cidades:
   - 2114007
   - 2112274
@@ -655,6 +679,7 @@
   - 2101939
 2103:
   nome: Caxias
+  estado: MA
   cidades:
   - 2111078
   - 2103901
@@ -672,6 +697,7 @@
   - 2103307
 2104:
   nome: Presidente Dutra
+  estado: MA
   cidades:
   - 2112308
   - 2111748
@@ -703,6 +729,7 @@
   - 2103505
 2105:
   nome: Imperatriz
+  estado: MA
   cidades:
   - 2112852
   - 2111763
@@ -749,6 +776,7 @@
   - 2100501
 2201:
   nome: Teresina
+  estado: PI
   cidades:
   - 2211100
   - 2211001
@@ -817,6 +845,7 @@
   - 2201200
 2202:
   nome: Parnaíba
+  estado: PI
   cidades:
   - 2207702
   - 2206696
@@ -850,6 +879,7 @@
   - 2201507
 2203:
   nome: Picos
+  estado: PI
   cidades:
   - 2211704
   - 2211605
@@ -911,6 +941,7 @@
   - 2201556
 2204:
   nome: São Raimundo Nonato
+  estado: PI
   cidades:
   - 2211357
   - 2210607
@@ -935,6 +966,7 @@
   - 2202117
 2205:
   nome: Corrente - Bom Jesus
+  estado: PI
   cidades:
   - 2210623
   - 2209757
@@ -960,6 +992,7 @@
   - 2200459
 2206:
   nome: Floriano
+  estado: PI
   cidades:
   - 2210102
   - 2209708
@@ -991,6 +1024,7 @@
   - 2201988
 2301:
   nome: Fortaleza
+  estado: CE
   cidades:
   - 2312601
   - 2312403
@@ -1045,6 +1079,7 @@
   - 2300903
 2302:
   nome: Quixadá
+  estado: CE
   cidades:
   - 2313005
   - 2312700
@@ -1079,6 +1114,7 @@
   - 2301109
 2303:
   nome: Iguatu
+  estado: CE
   cidades:
   - 2311900
   - 2311355
@@ -1097,6 +1133,7 @@
   - 2301802
 2304:
   nome: Juazeiro do Norte
+  estado: CE
   cidades:
   - 2314003
   - 2313252
@@ -1130,6 +1167,7 @@
   - 2300101
 2305:
   nome: Crateús
+  estado: CE
   cidades:
   - 2313203
   - 2311264
@@ -1146,6 +1184,7 @@
   - 2301505
 2306:
   nome: Sobral
+  estado: CE
   cidades:
   - 2313955
   - 2313906
@@ -1193,6 +1232,7 @@
   - 2302057
 2401:
   nome: Natal
+  estado: RN
   cidades:
   - 2414803
   - 2414407
@@ -1271,6 +1311,7 @@
   - 2401503
 2402:
   nome: Caicó
+  estado: RN
   cidades:
   - 2414308
   - 2413409
@@ -1298,6 +1339,7 @@
   - 2400109
 2403:
   nome: Mossoró
+  estado: RN
   cidades:
   - 2414605
   - 2413607
@@ -1369,6 +1411,7 @@
   - 2400208
 2501:
   nome: João Pessoa
+  estado: PB
   cidades:
   - 2515971
   - 2515302
@@ -1435,6 +1478,7 @@
   - 2506905
 2502:
   nome: Campina Grande
+  estado: PB
   cidades:
   - 2517001
   - 2516755
@@ -1510,6 +1554,7 @@
   - 2500734
 2503:
   nome: Patos
+  estado: PB
   cidades:
   - 2517100
   - 2516706
@@ -1576,6 +1621,7 @@
   - 2508000
 2504:
   nome: Sousa - Cajazeiras
+  estado: PB
   cidades:
   - 2517209
   - 2516904
@@ -1604,6 +1650,7 @@
   - 2500700
 2601:
   nome: Recife
+  estado: PE
   cidades:
   - 2613701
   - 2611804
@@ -1678,6 +1725,7 @@
   - 2605806
 2602:
   nome: Caruaru
+  estado: PE
   cidades:
   - 2615409
   - 2615003
@@ -1745,6 +1793,7 @@
   - 2600609
 2603:
   nome: Serra Talhada
+  estado: PE
   cidades:
   - 2615706
   - 2614808
@@ -1773,6 +1822,7 @@
   - 2600104
 2604:
   nome: Petrolina
+  estado: PE
   cidades:
   - 2612604
   - 2611101
@@ -1801,6 +1851,7 @@
   - 2601607
 2701:
   nome: Maceió
+  estado: AL
   cidades:
   - 2708907
   - 2707909
@@ -1856,6 +1907,7 @@
   - 2700409
 2702:
   nome: Arapiraca
+  estado: AL
   cidades:
   - 2709202
   - 2709152
@@ -1909,6 +1961,7 @@
   - 2700706
 2801:
   nome: Aracaju
+  estado: SE
   cidades:
   - 2807204
   - 2806701
@@ -1958,6 +2011,7 @@
   - 2800100
 2802:
   nome: Itabaiana
+  estado: SE
   cidades:
   - 2807006
   - 2806800
@@ -1990,6 +2044,7 @@
   - 2801207
 2901:
   nome: Salvador
+  estado: BA
   cidades:
   - 2931707
   - 2930709
@@ -2026,6 +2081,7 @@
   - 2900306
 2902:
   nome: Santo Antônio de Jesus
+  estado: BA
   cidades:
   - 2933174
   - 2932101
@@ -2070,6 +2126,7 @@
   - 2902302
 2903:
   nome: Ilhéus – Itabuna
+  estado: BA
   cidades:
   - 2932705
   - 2932200
@@ -2124,6 +2181,7 @@
   - 2902252
 2904:
   nome: Vitória da Conquista
+  estado: BA
   cidades:
   - 2933307
   - 2931806
@@ -2204,6 +2262,7 @@
   - 2916401
 2905:
   nome: Guanambi
+  estado: BA
   cidades:
   - 2932606
   - 2931053
@@ -2238,6 +2297,7 @@
   - 2903904
 2906:
   nome: Barreiras
+  estado: BA
   cidades:
   - 2933455
   - 2930907
@@ -2265,6 +2325,7 @@
   - 2906105
 2907:
   nome: Irecê
+  estado: BA
   cidades:
   - 2932408
   - 2929255
@@ -2297,6 +2358,7 @@
   - 2902708
 2908:
   nome: Juazeiro
+  estado: BA
   cidades:
   - 2932002
   - 2930774
@@ -2318,6 +2380,7 @@
   - 2901353
 2909:
   nome: Paulo Afonso
+  estado: BA
   cidades:
   - 2927606
   - 2927101
@@ -2351,6 +2414,7 @@
   - 2909208
 2910:
   nome: Feira de Santana
+  estado: BA
   cidades:
   - 2933059
   - 2931103
@@ -2437,6 +2501,7 @@
   - 2904001
 3101:
   nome: Belo Horizonte
+  estado: MG
   cidades:
   - 3171204
   - 3168309
@@ -2514,6 +2579,7 @@
   - 3131703
 3102:
   nome: Montes Claros
+  estado: MG
   cidades:
   - 3170909
   - 3162658
@@ -2603,6 +2669,7 @@
   - 3115474
 3103:
   nome: Teófilo Otoni
+  estado: MG
   cidades:
   - 3168606
   - 3166709
@@ -2692,6 +2759,7 @@
   - 3138906
 3104:
   nome: Governador Valadares
+  estado: MG
   cidades:
   - 3171907
   - 3171501
@@ -2753,6 +2821,7 @@
   - 3134103
 3105:
   nome: Ipatinga
+  estado: MG
   cidades:
   - 3168705
   - 3163409
@@ -2800,6 +2869,7 @@
   - 3136207
 3106:
   nome: Juíz de Fora
+  estado: MG
   cidades:
   - 3167509
   - 3160702
@@ -2949,6 +3019,7 @@
   - 3101508
 3107:
   nome: Barbacena
+  estado: MG
   cidades:
   - 3166204
   - 3159407
@@ -3001,6 +3072,7 @@
   - 3137403
 3108:
   nome: Varginha
+  estado: MG
   cidades:
   - 3170701
   - 3162005
@@ -3086,6 +3158,7 @@
   - 3112802
 3109:
   nome: Pouso Alegre
+  estado: MG
   cidades:
   - 3169802
   - 3169109
@@ -3169,6 +3242,7 @@
   - 3101201
 3110:
   nome: Uberaba
+  estado: MG
   cidades:
   - 3171105
   - 3170107
@@ -3201,6 +3275,7 @@
   - 3134400
 3111:
   nome: Uberlândia
+  estado: MG
   cidades:
   - 3170206
   - 3169604
@@ -3228,6 +3303,7 @@
   - 3131604
 3112:
   nome: Patos de Minas
+  estado: MG
   cidades:
   - 3171006
   - 3170750
@@ -3265,6 +3341,7 @@
   - 3119302
 3113:
   nome: Divinópolis
+  estado: MG
   cidades:
   - 3164605
   - 3161809
@@ -3329,6 +3406,7 @@
   - 3100203
 3201:
   nome: Vitória
+  estado: ES
   cidades:
   - 3205309
   - 3205200
@@ -3353,6 +3431,7 @@
   - 3200102
 3202:
   nome: São Mateus
+  estado: ES
   cidades:
   - 3204906
   - 3204252
@@ -3371,6 +3450,7 @@
   - 3200607
 3203:
   nome: Colatina
+  estado: ES
   cidades:
   - 3205176
   - 3204955
@@ -3392,6 +3472,7 @@
   - 3200169
 3204:
   nome: Cachoeiro do Itapemirim
+  estado: ES
   cidades:
   - 3205036
   - 3204401
@@ -3419,6 +3500,7 @@
   - 3200201
 3301:
   nome: Rio de Janeiro
+  estado: RJ
   cidades:
   - 3304144
   - 3303609
@@ -3448,6 +3530,7 @@
   - 3304300
 3302:
   nome: Volta Redonda - Barra Mansa
+  estado: RJ
   cidades:
   - 3304003
   - 3303955
@@ -3468,6 +3551,7 @@
   - 3304508
 3303:
   nome: Petrópolis
+  estado: RJ
   cidades:
   - 3303906
   - 3300225
@@ -3490,6 +3574,7 @@
   - 3305406
 3304:
   nome: Campos dos Goytacazes
+  estado: RJ
   cidades:
   - 3302056
   - 3301157
@@ -3511,6 +3596,7 @@
   - 3304706
 3305:
   nome: Macaé - Rio das Ostras - Cabo Frio
+  estado: RJ
   cidades:
   - 3301876
   - 3300704
@@ -3526,6 +3612,7 @@
   - 3304524
 3501:
   nome: São Paulo
+  estado: SP
   cidades:
   - 3556453
   - 3552809
@@ -3579,6 +3666,7 @@
   - 3506359
 3502:
   nome: Sorocaba
+  estado: SP
   cidades:
   - 3557006
   - 3554508
@@ -3660,6 +3748,7 @@
   - 3511607
 3503:
   nome: Bauru
+  estado: SP
   cidades:
   - 3555505
   - 3542503
@@ -3711,6 +3800,7 @@
   - 3508801
 3504:
   nome: Marília
+  estado: SP
   cidades:
   - 3556602
   - 3542008
@@ -3768,6 +3858,7 @@
   - 3515400
 3505:
   nome: Presidente Prudente
+  estado: SP
   cidades:
   - 3554300
   - 3553906
@@ -3826,6 +3917,7 @@
   - 3509106
 3506:
   nome: Araçatuba
+  estado: SP
   cidades:
   - 3556305
   - 3548054
@@ -3873,6 +3965,7 @@
   - 3502101
 3507:
   nome: São José do Rio Preto
+  estado: SP
   cidades:
   - 3556008
   - 3555703
@@ -3976,6 +4069,7 @@
   - 3532843
 3508:
   nome: Ribeirão Preto
+  estado: SP
   cidades:
   - 3551702
   - 3551504
@@ -4043,6 +4137,7 @@
   - 3503000
 3509:
   nome: Araraquara
+  estado: SP
   cidades:
   - 3554755
   - 3553708
@@ -4072,6 +4167,7 @@
   - 3513702
 3510:
   nome: Campinas
+  estado: SP
   cidades:
   - 3556701
   - 3556206
@@ -4162,6 +4258,7 @@
   - 3500501
 3511:
   nome: São José dos Campos
+  estado: SP
   cidades:
   - 3549904
   - 3546009
@@ -4204,6 +4301,7 @@
   - 3503158
 4101:
   nome: Curitiba
+  estado: PR
   cidades:
   - 4128633
   - 4127882
@@ -4252,6 +4350,7 @@
   - 4101309
 4102:
   nome: Guarapuava
+  estado: PR
   cidades:
   - 4127965
   - 4121752
@@ -4274,6 +4373,7 @@
   - 4103040
 4103:
   nome: Cascavel
+  estado: PR
   cidades:
   - 4116703
   - 4115606
@@ -4377,6 +4477,7 @@
   - 4107538
 4104:
   nome: Maringá
+  estado: PR
   cidades:
   - 4117503
   - 4117404
@@ -4495,6 +4596,7 @@
   - 4113502
 4105:
   nome: Londrina
+  estado: PR
   cidades:
   - 4116000
   - 4126678
@@ -4592,6 +4694,7 @@
   - 4106100
 4106:
   nome: Ponta Grossa
+  estado: PR
   cidades:
   - 4126306
   - 4125100
@@ -4621,6 +4724,7 @@
   - 4107736
 4201:
   nome: Florianópolis
+  estado: SC
   cidades:
   - 4217253
   - 4216602
@@ -4641,6 +4745,7 @@
   - 4200606
 4202:
   nome: Criciúma
+  estado: SC
   cidades:
   - 4220000
   - 4219002
@@ -4689,6 +4794,7 @@
   - 4220000
 4203:
   nome: Lages
+  estado: SC
   cidades:
   - 4218954
   - 4218905
@@ -4716,6 +4822,7 @@
   - 4202875
 4204:
   nome: Chapecó
+  estado: SC
   cidades:
   - 4219705
   - 4218855
@@ -4828,6 +4935,7 @@
   - 4203501
 4205:
   nome: Caçador
+  estado: SC
   cidades:
   - 4218251
   - 4210704
@@ -4847,6 +4955,7 @@
   - 4201604
 4206:
   nome: Joinville
+  estado: SC
   cidades:
   - 4217402
   - 4216354
@@ -4875,6 +4984,7 @@
   - 4203303
 4207:
   nome: Blumenau
+  estado: SC
   cidades:
   - 4218202
   - 4215109
@@ -4938,6 +5048,7 @@
   - 4204194
 4301:
   nome: Porto Alegre
+  estado: RS
   cidades:
   - 4323002
   - 4321352
@@ -5031,6 +5142,7 @@
   - 4301057
 4302:
   nome: Pelotas
+  estado: RS
   cidades:
   - 4322327
   - 4318804
@@ -5058,6 +5170,7 @@
   - 4300034
 4303:
   nome: Santa Maria
+  estado: RS
   cidades:
   - 4321493
   - 4320651
@@ -5101,6 +5214,7 @@
   - 4304655
 4304:
   nome: Uruguaiana
+  estado: RS
   cidades:
   - 4322400
   - 4311759
@@ -5114,6 +5228,7 @@
   - 4310603
 4305:
   nome: Ijuí
+  estado: RS
   cidades:
   - 4319737
   - 4317806
@@ -5194,6 +5309,7 @@
   - 4305207
 4306:
   nome: Passo Fundo
+  estado: RS
   cidades:
   - 4323200
   - 4321857
@@ -5341,6 +5457,7 @@
   - 4300505
 4307:
   nome: Caxias do Sul
+  estado: RS
   cidades:
   - 4322541
   - 4319000
@@ -5398,6 +5515,7 @@
   - 4302303
 4308:
   nome: Santa Cruz do Sul - Lajeado
+  estado: RS
   cidades:
   - 4322707
   - 4322608
@@ -5459,6 +5577,7 @@
   - 4300703
 5001:
   nome: Campo Grande
+  estado: MS
   cidades:
   - 5008008
   - 5007901
@@ -5494,6 +5613,7 @@
   - 5000252
 5002:
   nome: Dourados
+  estado: MS
   cidades:
   - 5008404
   - 5007208
@@ -5531,6 +5651,7 @@
   - 5000609
 5003:
   nome: Corumbá
+  estado: MS
   cidades:
   - 5005202
   - 5003207
@@ -5547,6 +5668,7 @@
   - 5000708
 5101:
   nome: Cuiabá
+  estado: MT
   cidades:
   - 5108402
   - 5107800
@@ -5580,6 +5702,7 @@
   - 5100508
 5102:
   nome: Cáceres
+  estado: MT
   cidades:
   - 5107750
   - 5107206
@@ -5604,6 +5727,7 @@
   - 5101258
 5103:
   nome: Sinop
+  estado: MT
   cidades:
   - 5108808
   - 5108303
@@ -5649,6 +5773,7 @@
   - 5105101
 5104:
   nome: Barra do Garças
+  estado: MT
   cidades:
   - 5108204
   - 5107198
@@ -5682,6 +5807,7 @@
   - 5100201
 5105:
   nome: Rondonópolis
+  estado: MT
   cidades:
   - 5108105
   - 5107602
@@ -5703,6 +5829,7 @@
   - 5103601
 5201:
   nome: Goiânia
+  estado: GO
   cidades:
   - 5221908
   - 5221403
@@ -5786,6 +5913,7 @@
   - 5215306
 5202:
   nome: Itumbiara
+  estado: GO
   cidades:
   - 5216007
   - 5212105
@@ -5811,6 +5939,7 @@
   - 5206305
 5203:
   nome: Rio Verde
+  estado: GO
   cidades:
   - 5221551
   - 5219712
@@ -5843,6 +5972,7 @@
   - 5209150
 5204:
   nome: São Luís de Montes Belos - Iporá
+  estado: GO
   cidades:
   - 5220108
   - 5219001
@@ -5881,6 +6011,7 @@
   - 5200134
 5205:
   nome: Porangatu - Uruaçu
+  estado: GO
   cidades:
   - 5221452
   - 5220207
@@ -5930,6 +6061,7 @@
   - 5203203
 5206:
   nome: Luziânia - Águas Lindas de Goiás
+  estado: GO
   cidades:
   - 5221858
   - 5219753
@@ -5967,5 +6099,6 @@
   - 5200175
 5301:
   nome: Distrito Federal
+  estado: DF
   cidades:
   - 5300108
